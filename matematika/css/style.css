@@ -1,0 +1,40 @@
+body { background: url(images/deskt.jpg) no-repeat; 
+	font-family: "RobotoRegular", sans-serif;
+	background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.btn {
+	  margin-top: 21px;
+	  background-color: darkkhaki;
+	  padding: 6px 18px;
+	}
+.fon {
+    background-color: rgba(0, 0, 0, 0.27);
+    padding: 50px;
+}
+
+.table{
+	color: #FBF9F9;
+	text-align: center;
+}
+
+.td{
+	background-color: rgba(245, 235, 235, 0.39);
+	}
+a{
+	text-decoration: none;
+	color: darkkhaki;
+}
+h5{
+	color: #FFFFFF;
+}
+
+input {
+  margin-top: 18px;
+ }
+
+ #ct1{
+ 	margin-top: 20px;
+ }
